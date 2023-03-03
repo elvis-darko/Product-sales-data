@@ -16,3 +16,8 @@ The sales calculations made in the notebook include;
 3. products with product retail price more than twice the wholesale price
 4. net revenue made from food, computers and books only
 
+## Author and e-mail
+Elvis DARKO
+
+elvis_darko@outlook.com
+
